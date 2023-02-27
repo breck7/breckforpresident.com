@@ -1,0 +1,45 @@
+import header.scroll
+groups index
+title I am running for President, do you want to volunteer?
+date 2023.02.27 2
+
+startColumns 2
+
+* I am running for President. Do you want to join the campaign?
+
+## Our campaign will be different
+- Everything will be done in public
+- Our time and resources will be focused on service, education, and building rather than advertising
+- We will use and build open source public domain campaign tools that our opponents can use as well
+
+## Some things will be the same
+- The campaign will be mostly in person local events across the country
+- We will have to comply with all the laws and rules and forms
+- We will have some parties. Parties are fun. Our campaign will definitely be fun.
+
+* Join us.
+ email join@breckforpresident.com
+
+## Why am I running for President?
+* To win Americans the Freedom to Publish.
+* Americans have a number of Freedoms guaranteed by the Constitution: Freedom of Speech, Freedom to Protest, Freedom of Religion, Freedom of the Press. But Americans specifically do not have the Freedom to Publish. You are not free to publish most content. Because of this, publishing of information is controlled by just a few elites. As a result it is shockingly easy to lie to and brainwash a large number of people. 2020 and the "pandemic" was proof of that.
+
+* To fix this, we need to pass a new Amendment to the Constitution. The Freedom to Publish Amendment will  abolish copywrong law and guarantee every American the Freedom to be their own publisher.
+
+* Doing this we will unleash a wave of creativity and economic development and prosperity unlike any the country or world has seen before.
+
+## Who am I? (Short version)
+
+* I'm Breck. I am the Founder and CEO of Public Domain Publishing and inventor of many new human-computer languages that are taking over the software world.
+* I am a proud father, American and warrior for truth.
+* I have lived a blessed life thanks to the freedoms afforded to me by millions of brave Americans, past and present, and I am looking to boldly lead our country to a new level of freedom and prosperity.
+ https://pd.pub Public Domain Publishing
+
+## Who am I? (Biographical information)
+
+* My name is John Breckinridge Yunits, but I have gone by "Breck" since birth. I was born in Brockton Hospital on February 26, 1984 in Brockton, Massachusetts where I spent my early life. I attended St. Casimir's, Hancock Elementary, West Junior High School, Boston College High School, then moved to North Carolina to attend Duke University. From 2008 - 2014 I lived in San Francisco, California and was a software engineer. In 2014 I moved to Seattle, Washington and did software engineering at Microsoft. In 2017 I got married and moved to Honolulu, Hawai'i. In 2018 I joined the University of Hawai'i Cancer Center as a Research Associate. In 2019 our first daughter Kaia was born. In 2020 I was the Senior Software Engineer for Oxford's Our World in Data. In 2021 I founded my current company, Public Domain Publishing Inc. Also in 2021 our second daughter, Pemma, was born. In 2022 I launched PLDB.com. In 2023 we are launching CancerDB.com—a new moonshot to solve cancer—and I announced my run for President.
+
+
+endColumns
+
+import footer.scroll
