@@ -1,11 +1,25 @@
 import header.scroll
 groups index
-title Hello world
+title I'm running for President
 date 2023.02.27
 
 startColumns 2
 
-* This is my first blog post using Scroll. This post will appear in the feed and on the index page.
+* I love this country. I love our people. I love our history. I love our values. I love our dreams.
+
+* But I hate the information control.
+
+* The United States has made it almost 250 years. To continue to realize the dream for another 250 years, and beyond, we need to double down on what has worked: freedom and liberty.
+
+* We need to pass an Amendment to the U.S. Constitution guaranteeing every citizen the Freedom to Publish. So every man, women and child in this country could start their own newspaper, network, book publisher, magazine, studio, journal, or school. I am running for President to liberate ideas. To liberate minds.
+
+* As far as everything else goes with running a country, I don't know what I'm doing, but we'll figure it out.
+
+quote
+ "Breck"
+ John Breckinridge Yunits
+ Oahu, Hawai'i
+ Monday, February 27, 2023 7am HST
 
 endColumns
 import footer.scroll
