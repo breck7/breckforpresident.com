@@ -3,6 +3,8 @@ groups index
 title I am running for President, do you want to volunteer?
 date 2023.02.27 2
 
+openGraphImage https://breckforpresident.com/logo.png
+
 startColumns 2
 
 * I am running for President. Do you want to join the campaign?
