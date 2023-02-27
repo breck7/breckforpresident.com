@@ -1,7 +1,7 @@
 importOnly
-git https://github.com/breck7/presidentbreck.com
-email join@presidentbreck.com
-baseUrl https://presidentbreck.com
+git https://github.com/breck7/breckforpresident.com
+email join@breckforpresident.com
+baseUrl https://breckforpresident.com
 metaTags
 scrollCssTag
 scrollHeader
