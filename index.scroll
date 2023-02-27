@@ -2,5 +2,5 @@ import header.scroll
 title Breck for President
 description Breck for President 2024
 snippets index
-
+openGraphImage https://breckforpresident.com/logo.png
 import footer.scroll
