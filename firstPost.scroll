@@ -1,12 +1,14 @@
 import header.scroll
 groups index
 title I'm running for President
-date 2023.02.27
+date 2/27/2023
 openGraphImage https://breckforpresident.com/logo.png
 
 startColumns 2
 
 * I love this country. I love our people. I love our history. I love our values. I love our dreams.
+
+endSnippet
 
 * But I hate the information control.
 

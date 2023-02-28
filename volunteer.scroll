@@ -1,7 +1,7 @@
 import header.scroll
 groups index
 title I am running for President, do you want to volunteer?
-date 2023.02.27 2
+date Mon Feb 27 08:24:38 2023
 
 openGraphImage https://breckforpresident.com/logo.png
 
@@ -13,6 +13,8 @@ startColumns 2
 - Everything will be done in public
 - Our time and resources will be focused on service, education, and building rather than advertising
 - We will use and build open source public domain campaign tools that our opponents can use as well
+
+endSnippet
 
 ## Some things will be the same
 - The campaign will be mostly in person local events across the country

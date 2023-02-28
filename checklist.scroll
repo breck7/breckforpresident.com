@@ -1,0 +1,48 @@
+import header.scroll
+groups index
+title Checklist for running for President of the United States
+date 2/28/2023
+
+openGraphImage https://breckforpresident.com/logo.png
+
+startColumns 1
+
+? How do you run for President?
+* I've put the steps into the checklist below.
+
+endSnippet
+
+# Step 1: Ensure you meet the requirements
+* The 3 current requirements for running for President are:
+ https://www.whitehouse.gov/about-the-white-house/our-government/the-executive-branch/ 3 current requirements
+[x] The President must be at least 35 years of age
+ - I am 39. I was born in 1984.
+[x] The President must be be a natural born citizen
+ - I was born in Brockton, Massachusetts.
+[x] The President must have lived in the United States for at least 14 years.
+ - I have lived in the United States my entire life.
+
+# Step 2: Adhere to FEC requirements
+ https://www.fec.gov/help-candidates-and-committees/registering-candidate/ FEC requirements
+[] Designate a principal campaign committee
+ [] Appoint a treasurer
+ [] Appoint an assistant treasurer
+ [] Appoint custodian of records
+ [] Complete Statement of Organization
+  https://webforms.fec.gov/webforms/form1/index.htm
+[] Raise $5,000 in contributions or spend $5,000 in expenditures
+[] Obtain an EIN
+ https://www.irs.gov/businesses/small-businesses-self-employed/how-to-apply-for-an-ein EIN
+[] Get a bank account
+ - All bank accounts must be opened in the name of the committee using the committee’s Employer Identification Number. Bank accounts should never be opened in the name of an individual using an individual’s Social Security Number.
+ https://www.fec.gov/help-candidates-and-committees/get-tax-id-and-bank-account/
+[] Understand requirements for matching funds
+ https://www.fec.gov/help-candidates-and-committees/understanding-public-funding-presidential-elections/establishing-eligibility-presidential-primary-matching-funds/
+[] Gain ballot access in all 50 states
+ https://www.fec.gov/help-candidates-and-committees/registering-candidate/gaining-ballot-access/
+[] Complete Statement of Candidacy
+ https://webforms.fec.gov/webforms/form2/index.htm
+
+endColumns
+
+import footer.scroll
