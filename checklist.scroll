@@ -43,6 +43,13 @@ endSnippet
 [] Complete Statement of Candidacy
  https://webforms.fec.gov/webforms/form2/index.htm
 
+# Step 3: To Receive Matching Funds
+[] Raise $5,000 in 20 states
+ - You must have at least 20 donors in each state
+ - An individual can contribute a maximum of $3,300
+  https://www.fec.gov/updates/contribution-limits-for-2023-2024/#:~:text=The%20inflation%2Dadjusted%20limits%20are,per%20calendar%20year)%20(52%20U.S.C.
+ - But only up to $250 per person counts toward the $5,000 figure
+
 endColumns
 
 import footer.scroll
